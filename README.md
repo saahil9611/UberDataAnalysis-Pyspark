@@ -73,6 +73,4 @@ Visualizations are used throughout the analysis to better understand demand tren
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📄 License
 
-[MIT](LICENSE)
